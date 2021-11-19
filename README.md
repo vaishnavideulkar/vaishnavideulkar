@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @vaishnavideulkar
+HELLO WORLD!!
+- 👋 I’m @vaishnavideulkar
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Machine learning and Deep learning Workflow
 
